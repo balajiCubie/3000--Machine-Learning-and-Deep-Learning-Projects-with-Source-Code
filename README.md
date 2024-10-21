@@ -1,5 +1,6 @@
 3000+ Machine Learning and Deep Learning Projects with Source Code
 ==================================================================
+Blog credits IITIAN4U [Link](https://iitian4u.medium.com/3000-machine-learning-and-deep-learning-projects-with-source-code-a5bd66eb6c69)
 
 ![](https://miro.medium.com/v2/resize:fit:700/0*DGzo5g83ZHvazbAS.jpeg)
 
